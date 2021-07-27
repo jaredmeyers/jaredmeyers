@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jared
+- 👀 I’m interested in biology, bioinformatics, machine learning, and maps
+- 🌱 I’m currently in graduate school persuing a Master's in Bioinformatics
+- 💞️ I’m looking to collaborate on interesting projects
+- 📫 How to reach me: message me on GitHub, if that's even a thing,
